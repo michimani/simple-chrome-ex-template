@@ -5,7 +5,7 @@ This is a template project for Chrome Extension using *vite + vanilla-ts*.
 
 ## How to use
 
-TBD
+Create a new repository from this template using the **"Use this template"** button at the top of this repository, and implement your extension as you like.
 
 # License
 
